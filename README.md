@@ -11,6 +11,9 @@
 
 | Date       | Activity                                          |
 |------------|---------------------------------------------------|
+| 05-09-2022 | F1 in Schools 2022 North London Regional Finals   |
+| 23-08-2022 | JP Morgan Lego Agile Workshop Instructor          |
+| 25-07-2022 | JP Morgan Lego Agile Workshop Instructor          |
 | 01-07-2022 | F1 in Schools 2022 UK Virtual Worlds Finals       |
 | 30-06-2022 | Lightyear Foundation Presentation                 |
 | 01-03-2022 | F1 in Schools 2022 TeamGB Mentoring               |
